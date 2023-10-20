@@ -1,7 +1,7 @@
 
 
 
-## Codes for the watermelon pangenome project in 2024
+## Codes for the watermelon pangenome project in 2023
 
 ## 01. Genome survey
 
